@@ -26,11 +26,7 @@ pagination:
     </section>
     <section class="post-meta">
       <div class="post-categories">
-      {% if post.categories[0] %} in {% for cat in post.categories %}
 
-        <a href="{{ site.baseurl }}/posts/#{{ cat }}">{{ cat | replace: '-', ' ' | capitalize }}</a>
-
-      {% endfor %}{% endif %}
       </div>
     </section>
   </li>
