@@ -10,10 +10,10 @@ exclude:
 
 # Site settings
 title: Giste
-subtitle: "Supporting You"
+subtitle: "Template Directory"
 email: elioverbey@gmail.com
 description: >
-  "Giste: enough to help your reach your conclusion"
+  "Helping You Get the Giste"
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
