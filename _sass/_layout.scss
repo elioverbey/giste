@@ -237,7 +237,7 @@ pre code.hljs {
 			font-size: 0.9em;
 		}
 		.post-categories {
-			@include span-columns(6);
+			@include span-columns(0);
 			margin-right: 0;
 			text-align: right;
 			font-size: 0.9em;
@@ -352,6 +352,7 @@ pre code.hljs {
 			li {
 				padding: modular-scale(-4);
 				padding-left: 0;
+				text-align: left;
 			}
 			.desc {
 				font-size: 0.9em;
@@ -451,3 +452,4 @@ pre code.hljs {
 		}
 	}
 }
+
