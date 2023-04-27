@@ -5,7 +5,7 @@ categories: sales
 permalink: account-director-job-description/
 ---
 
-## The Account Director is responsible for managing client relationships, developing strategies to increase revenue and market share, and leading account teams in the execution of marketing plans. The Account Director will work to ensure client satisfaction and develop long-term relationships with clients.
+The Account Director is responsible for managing client relationships, developing strategies to increase revenue and market share, and leading account teams in the execution of marketing plans. The Account Director will work to ensure client satisfaction and develop long-term relationships with clients.
 
 ## Primary Responsibilities:
 - Lead account teams in the development of marketing plans and strategies to increase revenue and market share.
