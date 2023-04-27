@@ -11,14 +11,14 @@ The Sales Trainer is responsible for providing on-site training to sales teams w
 
 ## Responsibilities:
 
-• Design, develop and deliver effective sales training programs to sales teams
-• Utilize both in-person and online training methods to ensure that all employees receive the required training
-• Coach and mentor sales staff on sales techniques, product knowledge, and customer service
-• Evaluate the effectiveness of training programs and make adjustments as needed
-• Monitor sales team performance and provide feedback to ensure that goals are met
-• Develop and maintain relationships with key stakeholders to ensure that training needs are met
-• Create and maintain sales training materials and documentation
-• Remain up to date on industry trends and new products
-• Develop and maintain a sales training library
-• Provide regular reports and feedback to management on the effectiveness of training programs 
-• Assist with other sales training and development initiatives as needed
+- Design, develop and deliver effective sales training programs to sales teams
+- Utilize both in-person and online training methods to ensure that all employees receive the required training
+- Coach and mentor sales staff on sales techniques, product knowledge, and customer service
+- Evaluate the effectiveness of training programs and make adjustments as needed
+- Monitor sales team performance and provide feedback to ensure that goals are met
+- Develop and maintain relationships with key stakeholders to ensure that training needs are met
+- Create and maintain sales training materials and documentation
+- Remain up to date on industry trends and new products
+- Develop and maintain a sales training library
+- Provide regular reports and feedback to management on the effectiveness of training programs 
+- Assist with other sales training and development initiatives as needed
