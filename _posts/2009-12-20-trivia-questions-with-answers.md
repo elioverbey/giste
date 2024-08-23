@@ -7,7 +7,7 @@ permalink: trivia-questions-with-answers/
 
 Welcome to our trivia challenge! Get ready to test your knowledge across a variety of topics that will entertain and enlighten you. Whether you're a seasoned trivia buff or just looking for some fun facts, this collection of questions is sure to keep you on your toes. So, gather your friends, sharpen your mind, and let's see how many you can answer! Ready, set, go!
 
- ### General Knowledge
+### General Knowledge
 1. **What is the capital of France?**  
    **Answer:** Paris
 2. **Who wrote the play "Romeo and Juliet"?**  
@@ -29,7 +29,7 @@ Welcome to our trivia challenge! Get ready to test your knowledge across a varie
 10. **What is the hardest natural substance on Earth?**  
     **Answer:** Diamond
 
- ### Science
+### Science
 11. **What planet is known as the Red Planet?**  
     **Answer:** Mars
 12. **What is the chemical symbol for water?**  
@@ -51,7 +51,7 @@ Welcome to our trivia challenge! Get ready to test your knowledge across a varie
 20. **What planet is known as the Blue Planet?**  
     **Answer:** Earth
 
- ### History
+### History
 21. **Who was the first President of the United States?**  
     **Answer:** George Washington
 22. **In which year did World War II end?**  
@@ -73,7 +73,7 @@ Welcome to our trivia challenge! Get ready to test your knowledge across a varie
 30. **Who was the first emperor of Rome?**  
     **Answer:** Augustus Caesar
 
- ### Geography
+### Geography
 31. **Which is the largest continent by area?**  
     **Answer:** Asia
 32. **What river flows through London?**  
@@ -95,7 +95,7 @@ Welcome to our trivia challenge! Get ready to test your knowledge across a varie
 40. **Which country has the most natural lakes?**  
     **Answer:** Canada
 
- ### Pop Culture
+### Pop Culture
 41. **Who directed the movie "Titanic"?**  
     **Answer:** James Cameron
 42. **What is the highest-grossing movie of all time (as of 2024)?**  
@@ -117,7 +117,7 @@ Welcome to our trivia challenge! Get ready to test your knowledge across a varie
 50. **Who won the first season of "American Idol"?**  
     **Answer:** Kelly Clarkson
 
- ### Sports
+### Sports
 51. **Which country won the FIFA World Cup in 2018?**  
     **Answer:** France
 52. **Who holds the record for the most goals scored in the FIFA World Cup?**  
@@ -139,7 +139,7 @@ Welcome to our trivia challenge! Get ready to test your knowledge across a varie
 60. **Which country won the first ever World Cup in 1930?**  
     **Answer:** Uruguay
 
- ### Literature
+### Literature
 61. **Who wrote "1984"?**  
     **Answer:** George Orwell
 62. **Which book begins with the line "It was the best of times, it was the worst of times"?**  
@@ -161,7 +161,7 @@ Welcome to our trivia challenge! Get ready to test your knowledge across a varie
 70. **Who wrote the "Harry Potter" series?**  
     **Answer:** J.K. Rowling
 
- ### Music
+### Music
 71. **Who is known as the Queen of Soul?**  
     **Answer:** Aretha Franklin
 72. **Which band was Freddie Mercury the lead singer of?**  
@@ -183,7 +183,7 @@ Welcome to our trivia challenge! Get ready to test your knowledge across a varie
 80. **Which composer is known for his "Moonlight Sonata"?**  
     **Answer:** Ludwig van Beethoven
 
- ### Movies
+### Movies
 81. **Which movie features the quote "Here's looking at you, kid"?**  
     **Answer:** Casablanca
 82. **Who played the Joker in the 2008 movie "The Dark Knight"?**  
@@ -205,7 +205,7 @@ Welcome to our trivia challenge! Get ready to test your knowledge across a varie
 90. **Which 1999 movie featured the characters Neo, Morpheus, and Trinity?**  
     **Answer:** "The Matrix"
 
- ### Technology
+### Technology
 91. **What does "HTTP" stand for?**  
     **Answer:** Hypertext Transfer Protocol
 92. **Who is the founder of Microsoft?**  
@@ -227,7 +227,7 @@ Welcome to our trivia challenge! Get ready to test your knowledge across a varie
 100. **Which company developed the video game "Fortnite"?**  
     **Answer:** Epic Games
 
- ### Food & Drink
+### Food & Drink
 101. **What is the main ingredient in guacamole?**  
     **Answer:** Avocado
 102. **Which country is famous for sushi?**  
@@ -249,7 +249,7 @@ Welcome to our trivia challenge! Get ready to test your knowledge across a varie
 110. **Which country is the largest producer of coffee?**  
     **Answer:** Brazil
 
- ### Animals
+### Animals
 111. **What is the largest mammal in the world?**  
     **Answer:** Blue whale
 112. **Which bird is known for its colorful plumage and large tail feathers?**  
@@ -271,7 +271,7 @@ Welcome to our trivia challenge! Get ready to test your knowledge across a varie
 120. **Which insect is known for its role in pollination and honey production?**  
     **Answer:** Bee
 
- ### Mythology
+### Mythology
 121. **Who is the king of the gods in Greek mythology?**  
     **Answer:** Zeus
 122. **What is the name of Thor's hammer in Norse mythology?**  
@@ -293,7 +293,7 @@ Welcome to our trivia challenge! Get ready to test your knowledge across a varie
 130. **Who is the messenger of the gods in Greek mythology?**  
     **Answer:** Hermes
 
- ### Space
+### Space
 131. **What is the largest planet in our solar system?**  
     **Answer:** Jupiter
 132. **Which planet is closest to the Sun?**  
@@ -315,7 +315,7 @@ Welcome to our trivia challenge! Get ready to test your knowledge across a varie
 140. **Which planet is known for its rings?**  
     **Answer:** Saturn
 
- ### Television
+### Television
 141. **What is the longest-running animated TV show in the U.S.?**  
     **Answer:** The Simpsons
 142. **Who played the role of Walter White in "Breaking Bad"?**  
@@ -337,7 +337,7 @@ Welcome to our trivia challenge! Get ready to test your knowledge across a varie
 150. **Which show is known for the catchphrase "To infinity and beyond"?**  
     **Answer:** Toy Story (though not a TV show, this catchphrase is associated with the franchise)
 
- ### Languages
+### Languages
 151. **What is the most spoken language in the world?**  
     **Answer:** English
 152. **What is the official language of Brazil?**  
@@ -359,7 +359,7 @@ Welcome to our trivia challenge! Get ready to test your knowledge across a varie
 160. **What is the primary language spoken in Egypt?**  
     **Answer:** Arabic
 
- ### Fashion
+### Fashion
 161. **Which fashion house is known for its double C logo?**  
     **Answer:** Chanel
 162. **Who is known as the "Father of Haute Couture"?**  
@@ -381,7 +381,7 @@ Welcome to our trivia challenge! Get ready to test your knowledge across a varie
 170. **Who is the founder of the fashion brand Versace?**  
     **Answer:** Gianni Versace
 
- ### Nature
+### Nature
 171. **What is the tallest tree species in the world?**  
     **Answer:** Coast redwood (Sequoia sempervirens)
 172. **Which flower is known for blooming once every 12 years?**  
@@ -403,7 +403,7 @@ Welcome to our trivia challenge! Get ready to test your knowledge across a varie
 180. **Which type of rock is formed from volcanic activity?**  
     **Answer:** Igneous rock
 
- ### Arts
+### Arts
 181. **Who painted the ceiling of the Sistine Chapel?**  
     **Answer:** Michelangelo
 182. **Which artist is famous for the painting "Starry Night"?**  
@@ -425,7 +425,7 @@ Welcome to our trivia challenge! Get ready to test your knowledge across a varie
 190. **Who painted "The Last Supper"?**  
     **Answer:** Leonardo da Vinci
 
- ### Holidays
+### Holidays
 191. **Which holiday is celebrated on December 25th?**  
     **Answer:** Christmas
 192. **What holiday is known as Turkey Day?**  
@@ -447,7 +447,7 @@ Welcome to our trivia challenge! Get ready to test your knowledge across a varie
 200. **Which holiday is known as the festival of colors in India?**  
     **Answer:** Holi
 
- ### Religion
+### Religion
 201. **Which religion is the oldest in the world?**  
     **Answer:** Hinduism
 202. **What is the holy book of Islam?**  
@@ -469,7 +469,7 @@ Welcome to our trivia challenge! Get ready to test your knowledge across a varie
 210. **Which religion follows the teachings of the Guru Granth Sahib?**  
     **Answer:** Sikhism
 
- ### Politics
+### Politics
 211. **Who was the first female Prime Minister of the United Kingdom?**  
     **Answer:** Margaret Thatcher
 212. **Which political party is known as the GOP in the United States?**  
@@ -491,7 +491,7 @@ Welcome to our trivia challenge! Get ready to test your knowledge across a varie
 220. **Which political figure is known as the "Father of the Nation" in India?**  
     **Answer:** Mahatma Gandhi
 
- ### Inventions
+### Inventions
 221. **Who invented the telephone?**  
     **Answer:** Alexander Graham Bell
 222. **What is the name of the first successful airplane?**  
@@ -513,7 +513,7 @@ Welcome to our trivia challenge! Get ready to test your knowledge across a varie
 230. **Who invented the polio vaccine?**  
     **Answer:** Jonas Salk
 
- ### Law
+### Law
 231. **What is the highest court in the United States?**  
     **Answer:** The Supreme Court
 232. **What does "habeas corpus" mean?**  
@@ -535,7 +535,7 @@ Welcome to our trivia challenge! Get ready to test your knowledge across a varie
 240. **What does "pro bono" mean in legal terms?**  
     **Answer:** For the public good (free of charge)
 
- ### Medicine
+### Medicine
 241. **Who is known as the "Father of Modern Medicine"?**  
     **Answer:** Hippocrates
 242. **What is the common name for the medical procedure "myocardial infarction"?**  
@@ -557,7 +557,7 @@ Welcome to our trivia challenge! Get ready to test your knowledge across a varie
 250. **What is the primary function of the kidneys?**  
     **Answer:** Filter waste from the blood
 
- ### Architecture
+### Architecture
 251. **Which architect designed the Guggenheim Museum in New York?**  
     **Answer:** Frank Lloyd Wright
 252. **What is the tallest building in the world (as of 2024)?**  
@@ -579,7 +579,7 @@ Welcome to our trivia challenge! Get ready to test your knowledge across a varie
 260. **Which structure is known as the "Leaning Tower"?**  
     **Answer:** Leaning Tower of Pisa
 
- ### Sports
+### Sports
 261. **Which country won the first FIFA World Cup in 1930?**  
     **Answer:** Uruguay
 262. **What is the national sport of Canada?**  
@@ -601,7 +601,7 @@ Welcome to our trivia challenge! Get ready to test your knowledge across a varie
 270. **Which country is known for the sport of sumo wrestling?**  
     **Answer:** Japan
 
- ### Literature
+### Literature
 271. **Who wrote the play "Romeo and Juliet"?**  
     **Answer:** William Shakespeare
 272. **Which novel is known for the line "Call me Ishmael"?**  
@@ -623,7 +623,7 @@ Welcome to our trivia challenge! Get ready to test your knowledge across a varie
 280. **What is the name of the magical school in the Harry Potter series?**  
     **Answer:** Hogwarts School of Witchcraft and Wizardry
 
- ### Famous Quotes
+### Famous Quotes
 281. **Who said, "I think, therefore I am"?**  
     **Answer:** René Descartes
 282. **Who is credited with the quote, "The only thing we have to fear is fear itself"?**  
@@ -645,7 +645,7 @@ Welcome to our trivia challenge! Get ready to test your knowledge across a varie
 290. **Who said, "Let them eat cake"?**  
     **Answer:** (Attributed to) Marie Antoinette
 
- ### Mathematics
+### Mathematics
 291. **What is the value of pi (π) to two decimal places?**  
     **Answer:** 3.14
 292. **What is the name of the longest side of a right triangle?**  
