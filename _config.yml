@@ -9,11 +9,11 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Giste
-subtitle: "Template Directory"
+title: TriviaThis - Trivia quiz game with thousands of questions in tons of categories
+subtitle: "Triva"
 email: elioverbey@gmail.com
 description: >
-  "Helping You Get the Giste"
+  "Trivia. Simple."
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -43,8 +43,6 @@ jekyll-archives:
   permalinks:
     category: '/job-descriptions/:name/'
 
-# Disqus comments
-# disqus_shortname: bencentra
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
