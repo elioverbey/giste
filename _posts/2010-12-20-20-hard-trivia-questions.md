@@ -2,7 +2,7 @@
 layout: post
 title:  "20 Very Hard Trivia Questions"
 categories: general
-permalink: trivia-questions-with-answers/
+permalink: 20-hard-trivia-questions/
 ---
 
 ### 20 Very Hard Trivia Questions
