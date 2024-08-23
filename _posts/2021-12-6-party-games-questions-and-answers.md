@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Party Games Questions and Answers for Board Games"
+title:  "Party Games Questions and Answers"
 categories: board-games
-permalink: party-games-questions-and-answers-for-board-games/
+permalink: party-games-questions-and-answers/
 ---
 
 ### Party Games

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Modern and Popular Games Trivia Questions and Answers for Board Games"
+title:  "Modern and Popular Games Trivia Questions and Answers"
 categories: board-games
-permalink: modern-and-popular-games-trivia-questions-and-answers-for-board-games/
+permalink: modern-and-popular-games-trivia-questions-and-answers/
 ---
 
 ### Modern and Popular Games

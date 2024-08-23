@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Classic Games Trivia Questions and Answers for Board Games"
+title:  "Classic Games Trivia Questions and Answers"
 categories: board-games
-permalink: classic-games-trivia-questions-and-answers-for-board-games/
+permalink: classic-games-trivia-questions-and-answers/
 ---
 
 ### Classic Games

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Fantasy and Adventure Games Trivia Questions and Answers for Board Games"
+title:  "Fantasy and Adventure Games Trivia Questions and Answers"
 categories: board-games
-permalink: fantasy-and-adventure-games-trivia-questions-and-answers-for-board-games/
+permalink: fantasy-and-adventure-games-trivia-questions-and-answers/
 ---
 
 
