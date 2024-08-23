@@ -385,9 +385,7 @@ Welcome to our trivia challenge! Get ready to test your knowledge across a varie
 171. **What is the tallest tree species in the world?**  
     **Answer:** Coast redwood (Sequoia sempervirens)
 172. **Which flower is known for blooming once every 12 years?**  
-    **Answer:** Neelak
-
-urinji
+    **Answer:** Neelakurinji
 173. **What is the most common gas in Earth's atmosphere?**  
     **Answer:** Nitrogen
 174. **Which tree produces acorns?**  
