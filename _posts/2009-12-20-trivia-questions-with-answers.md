@@ -2,7 +2,7 @@
 layout: post
 title:  "300+ Trivia Questions with Answers and Categories [Latest Edition]"
 categories: trivia
-permalink: jeopardy-categories/
+permalink: trivia-questions-with-answers/
 ---
 
 Sure! Here's a list of 400 trivia questions along with their answers, categorized for easy reference:
