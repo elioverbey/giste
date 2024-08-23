@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "20 Very Hard Trivia Questions"
-categories: general
+categories: hard
 permalink: 20-hard-trivia-questions/
 ---
 
