@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "All about Jeopardy categories: the all time categories for all seasons"
+title:  "A Guide to all Jeopardy! Categories"
 categories: trivia
 permalink: jeopardy-categories/
 ---
