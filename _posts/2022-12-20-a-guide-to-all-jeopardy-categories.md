@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Guide to all Jeopardy! Categories"
-categories: trivia
+categories: general
 permalink: jeopardy-categories/
 ---
 

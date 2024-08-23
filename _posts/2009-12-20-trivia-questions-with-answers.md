@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "300+ Trivia Questions with Answers and Categories [Latest Edition]"
-categories: trivia
+categories: general
 permalink: trivia-questions-with-answers/
 ---
 
