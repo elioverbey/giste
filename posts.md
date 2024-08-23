@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Job Descriptions"
-permalink: /job-descriptions/
+title: "Trivia Topics"
+permalink: /topics/
 main_nav: true
 ---
 
