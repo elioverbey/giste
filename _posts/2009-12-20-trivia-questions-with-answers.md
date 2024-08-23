@@ -5,7 +5,7 @@ categories: general
 permalink: trivia-questions-with-answers/
 ---
 
-Sure! Here's a list of 400 trivia questions along with their answers, categorized for easy reference:
+Welcome to our trivia challenge! Get ready to test your knowledge across a variety of topics that will entertain and enlighten you. Whether you're a seasoned trivia buff or just looking for some fun facts, this collection of questions is sure to keep you on your toes. So, gather your friends, sharpen your mind, and let's see how many you can answer! Ready, set, go!
 
 ### General Knowledge
 1. **What is the capital of France?**  
