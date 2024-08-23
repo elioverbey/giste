@@ -9,11 +9,11 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: TriviaThis - Trivia quiz game with thousands of questions in tons of categories
-subtitle: "Triva"
+title: TriviaThis
+subtitle: "Trivia quiz game with thousands of questions in tons of categories."
 email: elioverbey@gmail.com
 description: >
-  "Trivia. Simple."
+  "Trivia quiz game with thousands of questions in tons of categories."
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -41,7 +41,7 @@ jekyll-archives:
     - tags
   layout: 'archive'
   permalinks:
-    category: '/job-descriptions/:name/'
+    category: '/trivia/:name/'
 
 
 # Google analytics
