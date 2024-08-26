@@ -584,9 +584,7 @@ permalink: chess-and-strategy-games-trivia-questions-and-answers/
      **Answer**: Sun Tzu
 
 191.  What is the term for a strategy where a player uses deception to create confusion in the opponent's ranks?  
-     **Answer**: M
-
-isinformation
+     **Answer**: Misinformation
 
 192.  What is the term for a strategy where a player uses maneuverability to gain an advantage?  
      **Answer**: Mobility
