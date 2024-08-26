@@ -211,9 +211,7 @@ permalink: word-games-trivia-questions-and-answers/
 66. What is the typical shape of a crossword puzzle grid?  
     **Answer:** Square
 
-67. **Q:**
-
- What is the term for a crossword puzzle clue that plays on words or has a double meaning?  
+67. What is the term for a crossword puzzle clue that plays on words or has a double meaning?  
     **Answer:** Cryptic clue
 
 68. What is the name of the most famous daily crossword puzzle published in the United States?  
@@ -420,9 +418,7 @@ permalink: word-games-trivia-questions-and-answers/
 133. What word ladder transforms "more" to "less"?  
     **Answer:** More → lore → lose → less
 
-134. What is the shortest ladder from "make"
-
- to "take"?  
+134. What is the shortest ladder from "make" to "take"?  
     **Answer:** Make → take
 
 135. What is the word ladder from "game" to "play"?  
