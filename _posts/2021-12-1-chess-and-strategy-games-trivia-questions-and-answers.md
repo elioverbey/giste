@@ -205,9 +205,7 @@ permalink: chess-and-strategy-games-trivia-questions-and-answers/
 66.  What do we call a draw where one side lacks sufficient material to checkmate?  
     **Answer**: Draw by insufficient material
 
-67.  What is the term for a strategy where a player builds up a
-
- strong pawn structure in the center?  
+67.  What is the term for a strategy where a player builds up a strong pawn structure in the center?  
     **Answer**: Centralization
 
 68.  Who was the first chess player to achieve a rating over 2800?  
@@ -395,9 +393,7 @@ permalink: chess-and-strategy-games-trivia-questions-and-answers/
 128.  What is the term for a strategy where a player controls key supply lines?  
      **Answer**: Logistics control
 
-129.
-
-  What is the term for a strategy where a player focuses on outmaneuvering the opponent?  
+129. What is the term for a strategy where a player focuses on outmaneuvering the opponent?  
      **Answer**: Flanking
 
 130.  Who was the famous military leader who used a strategy of attrition during the American Civil War?  
