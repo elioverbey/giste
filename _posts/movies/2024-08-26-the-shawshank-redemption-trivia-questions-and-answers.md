@@ -204,9 +204,7 @@ permalink: the-shawshank-redemption-trivia-questions-and-answers/
 66. What symbolic act does Andy perform before escaping?  
     **Answer:** Placing the warden's Bible in his safe.
 
-67. What was the
-
- original sentence for Andy Dufresne?  
+67. What was the original sentence for Andy Dufresne?  
     **Answer:** Two life sentences
 
 68. How does Red describe his crime during his parole hearing?  
@@ -398,9 +396,7 @@ permalink: the-shawshank-redemption-trivia-questions-and-answers/
 130. How does Andy ultimately expose the warden’s corruption?  
     **Answer:** By sending evidence to the local newspaper and authorities.
 
-131. What
-
- is the significance of the film’s title?  
+131. What is the significance of the film’s title?  
     **Answer:** It represents Andy’s journey to reclaim his freedom and dignity.
 
 132. What does Andy write in the letter to Red?  
@@ -589,9 +585,7 @@ permalink: the-shawshank-redemption-trivia-questions-and-answers/
 193. How does the film use lighting to convey mood and themes?  
     **Answer:** By contrasting dark, confined spaces with bright, open scenes.
 
-194. What does Red’s acceptance
-
- of hope at the end of the film signify?  
+194. What does Red’s acceptance of hope at the end of the film signify?  
     **Answer:** His belief in the possibility of redemption and a better future.
 
 195. How does Andy’s story inspire the other inmates?  
