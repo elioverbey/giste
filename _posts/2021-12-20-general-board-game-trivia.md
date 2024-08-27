@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "General Board Game Trivia"
+title:  "General Board Game Trivia Questions and Answers"
 categories: board-games
 permalink: general-board-game-trivia/
 ---

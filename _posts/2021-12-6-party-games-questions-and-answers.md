@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Party Games Questions and Answers"
+title:  "Party Games Trivia Questions and Answers"
 categories: board-games
 permalink: party-games-questions-and-answers/
 ---

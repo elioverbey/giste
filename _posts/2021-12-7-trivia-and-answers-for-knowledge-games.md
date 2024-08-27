@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Trivia and Answers for Knowledge Games"
+title:  "Knowledge Games Trivia Questions and Answers"
 categories: board-games
 permalink: trivia-and-answers-for-knowledge-games/
 ---
